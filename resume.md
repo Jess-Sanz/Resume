@@ -4,10 +4,10 @@
     <meta charset="utf-8"/>
     <title>Jessica Sanz Resume</title>
   </header>
- <style>
+ <!--<style>
     td,th { border: 1px solid #ccc; }
     table { border: 1px solid black; }
-</style>
+</style>/>
 
 <body>
   <header>
@@ -15,7 +15,7 @@
     <h6>jsanz.music@hotmail.com  -  (786) 316 5282</h6>
   </header>
   <main>
-   <h5><em>Colombian soprano with a promissing career currently under Sandra Lopez Neill at University of Miami</em></h5>
+   <h5><em>Colombian soprano with a promissing career; currently under Sandra Lopez Neill at University of Miami</em></h5>
     
    <h2>Roles</h2>
  <table>
