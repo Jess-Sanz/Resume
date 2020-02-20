@@ -15,7 +15,7 @@
     <h6>jsanz.music@hotmail.com  -  (786) 316 5282</h6>
   </header>
   <main>
-   <h5><em>Colombian soprano with a promissing career; currently under Sandra Lopez Neill at University of Miami</em></h5>
+   <h5><em>Colombian soprano with a promissing career; currently under Sandra Lopez Neill at <strong>University of Miami</strong></em></h5>
     
    <h2>Roles</h2>
  <table>
