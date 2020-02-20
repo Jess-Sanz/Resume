@@ -12,7 +12,7 @@
 <body>
   <header>
     <h1>Jessica Sanz Soprano</h1>
-     <h6> jsanz.music@hotmail.com  -  (786) 316 5282  </h6>
+    <h6>jsanz.music@hotmail.com  -  (786) 316 5282</h6>
   </header>
 
 
