@@ -45,7 +45,7 @@
     <td>Dorabella</td>
     <td>Cosí Fan Tutte</td>
     <td>New World School of The Arts</td>
-    <td>2015/td>
+    <td>2015</td>
   </tr>
   <tr>
     <td>Carmen</td>
@@ -65,6 +65,86 @@
     <td>Opera Atelier</td>
     <td>2015</td>
   </tr>
+</table>
+
+   <h2>Concert & Oratorio<h2>
+  
+<table> 
+  <tr>
+    <td>Choir</td>
+    <td>Requiem Of Mozart</td>
+    <td>Universidad Reformada</td>
+    <td>2012</td>
+  </tr>
+  <tr>
+    <td>Soloist</td>
+    <td>Canciones Para Niños</td>
+    <td>Universidad Reformada</td>
+    <td>2012</td>
+  </tr>
+  <tr>
+    <td>Soloist</td>
+    <td>Dvorak Biblical Songs</td>
+    <td>First United Church of Christ</td>
+    <td>2014</td>
+  </tr>
+  <tr>
+    <td>Soloist</td>
+    <td>Cuatro Madrigales</td>
+    <td>The downtowner concert series</td>
+  <td>2016</td>
+  </tr>
+  <tr>
+    <td>Soloist</td>
+    <td>Music Can Heal</td>
+    <td>The downtowner concert series</td>
+    <td>2016</td>
+  </tr>
+  <tr>
+    <td>Soloist</td>
+    <td>De España Vengo</td>
+    <td>The downtowner concert series</td>
+    <td>2016</td>
+  </tr>
+  <tr>
+    <td>Soloist</td>
+    <td>Composition Senior Recital</td>
+    <td>New world school of the arts</td>
+    <td>2016</td>
+  </tr>
+  <tr>
+    <td>Soloist</td>
+    <td>Junior Recital</td>
+    <td>New world school of the arts</td>
+    <td>2016</td>
+  </tr>
+  <tr>
+   <td>Soloist</td>
+   <td>Tuesdays With Manny</td>
+   <td>Temple Beth Am</td>
+   <td>2017<td>
+  </tr>
+</table>
+
+   <h2>Awards & Recognitions</h2>
+   
+<table>
+   <tr>
+     <td>Soloist</td>
+     <td>Estudiantes Descatados</td>
+     <td>Universidad Reformada</td>
+     <td>2012</td>
+  </tr>
+  <tr>
+     <td>Winner soloist</td>
+     <td>Concerto Competition</td>
+     <td>New world school of the arts</td>
+     <td>2015</td>
+  </tr>
+</table>
+
+   <h2>Education<h2>
+
 
 
     
