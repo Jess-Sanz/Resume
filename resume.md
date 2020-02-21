@@ -31,11 +31,42 @@
     <th>Opera of Barranquilla</th>
     <th>2012</th>
   </tr>
- 
-  
  </table>   
-    
-    
+ 
+  <h2>Scenes & Covers</h2>
+ <table>
+  <tr>
+    <td>Mallika</td>
+    <td>Lakmé</td>
+    <td>New World School of The Arts</td>
+    <td>2014</td>
+  </tr>
+  <tr>
+    <td>Dorabella</td>
+    <td>Cosí Fan Tutte</td>
+    <td>New World School of The Arts</td>
+    <td>2015/td>
+  </tr>
+  <tr>
+    <td>Carmen</td>
+    <td>Carmen</td>
+    <td>New World School of The Arts</td>
+    <td>2015</td>
+  </tr>
+  <tr>
+    <td>Sandman</td>
+    <td>Hansel And Gretel</td>
+    <td>New World School of The Arts</td>
+    <td>2015</td>
+  </tr>
+  <tr>
+    <td>Nicklausse</td>
+    <td>Les Contes d’Hoffmann</td>
+    <td>Opera Atelier</td>
+    <td>2015</td>
+  </tr>
+
+
     
   </main>
   
