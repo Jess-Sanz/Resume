@@ -20,10 +20,10 @@
    <h2>Roles</h2>
  <table>
   <tr>
-    <th>Radamisto</th>
-    <th>Radamisto</th>
-    <th>Miami Summer Music Festival</th>
-    <th>2018</th>
+    <td>Radamisto</td>
+    <td>Radamisto</td>
+    <td>Miami Summer Music Festival</td>
+    <td>2018</td>
   </tr>
   <tr>
     <th>Second Witch</th>
@@ -92,7 +92,7 @@
     <td>Soloist</td>
     <td>Cuatro Madrigales</td>
     <td>The downtowner concert series</td>
-  <td>2016</td>
+    <td>2016</td>
   </tr>
   <tr>
     <td>Soloist</td>
@@ -145,6 +145,8 @@
 
    <h2>Education<h2>
 
+<ul>
+  <li><td>Bachelor In Music, Vocal Performance, New World School Of The Arts</td><td>Continued</td></li>
 
 
     
