@@ -67,7 +67,7 @@
   </tr>
 </table>
 
-   <h2>Concert & Oratorio<h2>
+   <h2>Concert & Oratorio</h2>
   
 <table> 
   <tr>
