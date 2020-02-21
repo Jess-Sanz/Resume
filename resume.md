@@ -16,7 +16,7 @@
     
    <img src="mmf.png" alt="Jessica Sanz, Soprano">
  
-   <h5><em>Colombian soprano with a promissing career; currently under Sandra Lopez Neill at <strong>University of Miami</strong></em></h5>
+   <h5><em>Colombian soprano with a promissing career. Currently under Sandra Lopez Neill at <strong>University of Miami</strong></em></h5>
    </header>
    
    <main> 
