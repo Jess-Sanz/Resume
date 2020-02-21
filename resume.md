@@ -178,8 +178,9 @@
   </main>
 
 <footer>
-      <h4>Jessica Sanz <em>Soprano</em></h4>
-  <p> <h6>jsanz.music@hotmail.com  -  (786) 316 5282</h6> </p>
+ <p>  <h4>Jessica Sanz <em>Soprano</em></h4>
+      <h6>jsanz.music@hotmail.com  -  (786) 316 5282</h6>
+ </p>
 </footer>
 
 </body>
