@@ -4,10 +4,10 @@
     <meta charset="utf-8"/>
     <title>Jessica Sanz Resume</title>
   </head>
- <!--<style>
+ <style>
     td,th { border: 1px solid #ccc; }
     table { border: 1px solid black; }
-</style>-->
+  </style>
 
 <body>
   <header>
