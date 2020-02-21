@@ -172,11 +172,12 @@
   <p>Skilled dancer, basic piano, bilingual</p>
 
 </aside>
-
-
-    
-  </main>
   
+  </main>
+
+<footer>
+  <p> <small>jsanz.music@hotmail.com  -  (786) 316 5282</small> </p>
+</footer>
 
 </body>
 
