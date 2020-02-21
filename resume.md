@@ -125,7 +125,7 @@
    <td>Soloist</td>
    <td>Tuesdays With Manny</td>
    <td>Temple Beth Am</td>
-   <td>2017<td>
+   <td>2017</td>
   </tr>
 </table>
 
@@ -180,9 +180,7 @@
   </main>
 
 <footer>
- <p>  
-      <h6>jsanz.music@hotmail.com  -  (786) 316 5282</h6>
- </p>
+ <p><h6>jsanz.music@hotmail.com  -  (786) 316 5282</h6></p>
 </footer>
 
 </body>
