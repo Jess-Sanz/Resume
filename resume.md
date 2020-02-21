@@ -146,7 +146,32 @@
    <h2>Education</h2>
 
 <ul>
-  <li><td>Bachelor In Music, Vocal Performance, New World School Of The Arts</td><td>Continued</td></li>
+  <li>Bachelor In Music, Vocal Performance, University of Miami, in progress</li>
+  <li>Associate In Arts, Vocal Performance, Miami Dade College (NWSA), 2016</li>
+  <li>Vocal Perfomance, Universidad Reformada De Barranquilla, 2014</li>
+</ul>
+
+  <aside>
+   <h2>Coaches</h2>
+ <ul>   
+   <li>Juvenal Correa - Salas</li>
+   <li>Jenny Snyder</li>
+   <li>Carlos Bastos</li>
+ </ul>
+  
+   <h2>Professors</h2>
+ <ul>
+   <li>Manny Perez</li>
+   <li>Sandra Lopez Neill</li>
+   <li>Laura Saldarriaga</li>
+   <li>Mercedes Guevara</li>
+</ul>
+
+  <h3>Related Skills</h3>
+  
+  <p>Skilled dancer, basic piano, bilingual</p>
+
+</aside>
 
 
     
