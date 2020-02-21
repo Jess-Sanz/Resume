@@ -26,10 +26,10 @@
     <td>2018</td>
   </tr>
   <tr>
-    <th>Second Witch</th>
-    <th>Dido and Aeneas</th>
-    <th>Opera of Barranquilla</th>
-    <th>2012</th>
+    <td>Second Witch</td>
+    <td>Dido and Aeneas</td>
+    <td>Opera of Barranquilla</td>
+    <td>2012</td>
   </tr>
  </table>   
  
@@ -143,7 +143,7 @@
   </tr>
 </table>
 
-   <h2>Education<h2>
+   <h2>Education</h2>
 
 <ul>
   <li><td>Bachelor In Music, Vocal Performance, New World School Of The Arts</td><td>Continued</td></li>
