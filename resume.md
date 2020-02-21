@@ -14,7 +14,7 @@
     <h1>Jessica Sanz, <em>Soprano</em></h1>
     <h6>jsanz.music@hotmail.com  -  (786) 316 5282</h6>
     
-   <img src="mmf.png" alt="Jessica Sanz, Soprano">
+   <img src="mmf.jpg" alt="Jessica Sanz, Soprano">
  
    <h5><em>Colombian soprano with a promissing career. Currently under Sandra Lopez Neill at <strong>University of Miami</strong></em></h5>
    </header>
