@@ -11,7 +11,7 @@
 
 <body>
   <header>
-    <h1>Jessica Sanz <em>Soprano</em></h1>
+    <h1>Jessica Sanz, <em>Soprano</em></h1>
     <h6>jsanz.music@hotmail.com  -  (786) 316 5282</h6>
     
    <img src="mmf.png" alt="Jessica Sanz, Soprano">
