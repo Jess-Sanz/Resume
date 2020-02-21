@@ -167,12 +167,13 @@
    <li>Laura Saldarriaga</li>
    <li>Mercedes Guevara</li>
 </ul>
-
+   
+   <article>
   <h3>Related Skills</h3>
   
   <p>Skilled dancer, basic piano, bilingual</p>
-
-</aside>
+   </article>
+ </aside>
   
   </main>
 
