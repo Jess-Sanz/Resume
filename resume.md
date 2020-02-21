@@ -178,7 +178,7 @@
   </main>
 
 <footer>
-  <p> <small>jsanz.music@hotmail.com  -  (786) 316 5282</small> </p>
+  <p> <h6>jsanz.music@hotmail.com  -  (786) 316 5282</h6> </p>
 </footer>
 
 </body>
